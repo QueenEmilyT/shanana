@@ -1,0 +1,7 @@
+{
+  "name": "shanana",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
